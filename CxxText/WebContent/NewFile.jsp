@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-这是测试类
+这是测试类2
 </body>
 </html>
